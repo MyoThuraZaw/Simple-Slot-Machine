@@ -1,3 +1,3 @@
 # Simple Slot Machine
 
-![alt text](./resources/Slot%20Machine.png=1024x)
+<img src="./resources/Slot%20Machine.png" width="400">
