@@ -3,6 +3,7 @@ class App extends React.Component {
         return (
             <div>
                 <h1>Slot Machines!</h1>
+                <h2>The power of random number generator</h2>
                 <Machine />
                 <Machine />
                 <Machine />
